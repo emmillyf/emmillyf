@@ -1,17 +1,14 @@
-<h1 align="center">Olá, mundo! 👋</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=Emmillyf&theme=rose&show_icons=true&hide_border=true&count_private=true" align="right">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&height=50%&pause=1000&color=E9D8D3&width=56%&lines=Welcome+to+my+Github!+" align="center">
 
-<div  align="center" >
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=emmillyf&show_icons=true&theme=radical"/>
-  <img heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmillyf&layout=compact&theme=radical&langs_count=8"/>
+<h3 align="left">
+  <img src="https://i.pinimg.com/originals/d7/32/e0/d732e0cea4adf2912620793fe82efd21.gif" width="25">
+      Pronouns: she | her <br> 
+  <img src="https://i.pinimg.com/originals/d7/32/e0/d732e0cea4adf2912620793fe82efd21.gif" width="25">
+      Computer science student <br>
+  <img src="https://i.pinimg.com/originals/d7/32/e0/d732e0cea4adf2912620793fe82efd21.gif" width="25">
+      Learning new things <br> <br>
+</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Emmy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Emmy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Emmy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Emmy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Emmy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Emmy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Emmy-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Emmy-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  
-</div>
+<img src="https://nirzak-streak-stats.vercel.app/?user=nylecoelho&theme=rose&hide_border=true" width="56%" height="50%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nylecoelho&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
