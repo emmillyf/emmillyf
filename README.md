@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Emmillyf&theme=rose&show_icons=true&hide_border=true&count_private=true" align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&height=50%&pause=1000&color=E9D8D3&width=56%&lines=Welcome+to+my+Github!+" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&height=200&pause=1000&color=E9D8D3&width=350&lines=Welcome+to+my+Github!+" align="center">
 
 <h3 align="left">
   <img src="https://i.pinimg.com/originals/d7/32/e0/d732e0cea4adf2912620793fe82efd21.gif" width="25">
