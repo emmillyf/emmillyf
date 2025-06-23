@@ -9,6 +9,5 @@
   <img src="https://i.pinimg.com/originals/d7/32/e0/d732e0cea4adf2912620793fe82efd21.gif" width="25">
       Learning new things <br> <br>
 </h3>
-
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=nylecoelho&theme=rose&hide_border=true" width="56%" height="50%" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmillyf&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="40%" height="40%" align="center"> <br>
