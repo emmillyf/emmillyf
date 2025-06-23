@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/d7/32/e0/d732e0cea4adf2912620793fe82efd21.gif" width="25">
       Pronouns: she | her <br> 
   <img src="https://i.pinimg.com/originals/d7/32/e0/d732e0cea4adf2912620793fe82efd21.gif" width="25">
-      Computer science student <br>
+      Computer Science student <br>
   <img src="https://i.pinimg.com/originals/d7/32/e0/d732e0cea4adf2912620793fe82efd21.gif" width="25">
       Learning new things <br> <br>
 </h3>
